@@ -80,6 +80,7 @@ es:
     ACCEPT_HELP: "Una lista de  MIME Types que se permiten subir."
     ERROR_VALIDATING_CAPTCHA: "Error al comprobar el Captcha"
     RECAPTCHA: "ReCaptcha"
+    DATA_SUMMARY: "Este es el resumen de su formulario de contacto:"
     RECAPTCHA_SITE_KEY: "Site key"
     RECAPTCHA_SITE_KEY_HELP: "Para más información visita https://developers.google.com/recaptcha"
     RECAPTCHA_SECRET_KEY: "Secret key"
